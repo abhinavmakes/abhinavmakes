@@ -1,71 +1,23 @@
-# Hello, I'm Abhinav 👋
+# Abhinav Makes Things
 
-A Software Engineer with 2 years of coding experience (6 months in the professional arena). I specialize in full-stack development with a knack for DevOps.
+Software Engineer building AI agents for enterprise workflows. Most of my time goes into making LLMs do useful things reliably — structured outputs, evaluations, multi-agent orchestration, and all the unglamorous bits between a demo and production.
 
----
-
-## About Me
-
-- **Name:** Abhinav  Modi
-- **Background:** Computer Science Engineer   
-- **Experience:** 2 years of coding (6 months professional)  
-- **Specialties:** Full-Stack Development & DevOps
+I care about software that works, not software that demos well.
 
 ---
 
-## Technical Skillset
+### What I work with
 
-<div align="center ">
-
-<table style="width: 100%; ">
-  <tr>
-    <td style="padding: 10px; vertical-align: top; text-align: left;">
-      <strong >Frontend</strong><br>
-      - HTML & CSS<br>
-      - Tailwind<br>
-      - React<br>
-      - Next.js
-    </td>
-    <td style="padding: 10px; vertical-align: top; text-align: left;">
-      <strong>Backend</strong><br>
-      - Node.js & Express.js<br>
-      - .Net
-    </td>
-  </tr>
-  <tr>
-    <td style="padding: 10px; vertical-align: top; text-align: left;">
-      <strong>Databases</strong><br>
-      - MongoDB<br>
-      - SQL<br>
-      - PostgreSQL
-    </td>
-    <td style="padding: 10px; vertical-align: top; text-align: left;">
-      <strong>Programming Languages</strong><br>
-      - JavaScript<br>
-      - Python<br>
-      - C#<br>
-      - Java
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding: 10px; vertical-align: top; text-align: left;">
-      <strong>DevOps & Cloud</strong><br>
-      - Terraform<br>
-      - YAML<br>
-      - Docker<br>
-      - Kubernetes<br>
-      - Azure Cloud<br>
-      - AWS
-    </td>
-  </tr>
-</table>
-
-</div>
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 ---
-
-## Connect With Me
-
-- **LinkedIn:** [Visit my profile](https://www.linkedin.com/in/abhinav-modi01/)
-- **Email:** [abhinavmodi07@gmail.com](mailto:abhinavmodi07@gmail.com)
