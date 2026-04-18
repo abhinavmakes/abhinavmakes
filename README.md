@@ -1,6 +1,6 @@
 # Abhinav Makes Things
 
-Software Engineer building AI agents for enterprise workflows. Most of my time goes into making LLMs do useful things reliably — structured outputs, evaluations, multi-agent orchestration, and all the unglamorous bits between a demo and production.
+Software Engineer building AI agents for enterprise workflows. Most of my time goes into making LLMs do useful things reliably. Structured outputs, evaluations, multi-agent orchestration, and all the unglamorous bits between a demo and production.
 
 I care about software that works, not software that demos well.
 
